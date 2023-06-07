@@ -1,4 +1,4 @@
-# Mens-March-Madness-Winners
+#Analyzing March Madness Winners with Machine Learning
 Explanation of Variables:
 
     - Success of Team in March Maddness is evaluated by the amount of wins:
