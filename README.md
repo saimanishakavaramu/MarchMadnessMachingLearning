@@ -1,6 +1,6 @@
 #Analyzing March Madness Winners with Machine Learning
-Explanation of Variables:
 
+Explanation of Variables:
     - Success of Team in March Maddness is evaluated by the amount of wins:
         0 - first round
         1 - second round
