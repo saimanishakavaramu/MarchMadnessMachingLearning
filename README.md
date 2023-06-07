@@ -1,6 +1,6 @@
 #Analyzing March Madness Winners with Machine Learning
 
-Explanation of Variables:
+- Explanation of Variables:
     - Success of Team in March Maddness is evaluated by the amount of wins:
         0 - first round
         1 - second round
@@ -9,7 +9,7 @@ Explanation of Variables:
         4 - final four
         5 - final
         6 - championship
-
+        
     - Simple Rating System: 
         A rating that takes into account average point differential and strength of schedule. The rating is denominated in points above/below average, where zero is average. Non-Division I games are excluded from the ratings
 
